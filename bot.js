@@ -1,7 +1,7 @@
 /* Copyright (C) 2020 JIHAD.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhatsAsena - elsamwol
+WhatsAsena - tintin
 */
 
 const fs = require("fs");
@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('ElsaMwol Running!🧚‍♂️')
+            chalk.green.bold('tintin bot Running!🧚‍♂️')
         );
     });
     
@@ -258,7 +258,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '💖______```ElsaMwol ```_____💖' +
+                                await conn.sendMessage(conn.user.jid, '💖______```tintin ```_____💖' +
                                     '\n\n*🧚‍♂️ ' + error + '*\n'
                                     , MessageType.text);
                             }
