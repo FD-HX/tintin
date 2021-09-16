@@ -1,13 +1,13 @@
 {
-    "name": "ElsaMwol V2🕺",
+    "name": "ElsaMwol 🧚‍♂️",
     "description": "ElsaMwol - Whatsapp Bot",
-    "logo": "https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg",
+    "logo": "https://telegra.ph/file/0ef07546f9a109238cd0e.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/J-I-H-A-D/ElsaMwol",
-    "Join Our Whatsapp Support Group": "https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0",
+    "repository": "https://github.com/Ajnasajnas/ElsaMwol",
+    "Join Our Whatsapp Support Group": "https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "ELSA_SESSION": {
             "description": "Qr.Js - Type here yours Asena Session.",
             "required": true
         },
