@@ -21,7 +21,7 @@ https://youtu.be/L8E4enqfYik
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
   <div align="center">
  
 
