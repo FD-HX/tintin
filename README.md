@@ -1,4 +1,5 @@
 <div align="center">
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwol+WA+Bot+repo;Created+by+AJNAS;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
   <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" width="200" height="200"/>
   
   <p align="center">
