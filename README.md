@@ -1,5 +1,5 @@
+<div align="center
 <div align="center">
-
   <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" width="200" height="200"/>
   
   <p align="center">
