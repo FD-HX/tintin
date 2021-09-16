@@ -7,10 +7,10 @@
  src="https://img.shields.io/badge/-Elsa%20Mowl-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-AJNAS-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/917736936605"><img title="Author" src="https://img.shields.io/badge/Author-AJNAS-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
-## Subscriber My Channel More Updates Coming Soon..
+## Subscriber My Channel 
  
  
 
@@ -47,7 +47,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/Ajnasajnas/ElsaMwol
 $ cd ElsaMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -58,7 +58,7 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/Ajnasajnas/ElsaMwol
 $ cd ElsaMwol
 $ chmod +x *
 $ npm i
@@ -72,7 +72,7 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, Ajnasajnas do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
