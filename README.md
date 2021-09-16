@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/shanumwon.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/tintin.jpg" width="200" height="200"/>
   
   <p align="center">
     
@@ -18,11 +18,11 @@
  ##
 
  
-# 📢 Guide
-Click WA logo to Join Support Group 👇
+# Wa.me/+918075168486
+
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]
   <div align="center">
  
 
