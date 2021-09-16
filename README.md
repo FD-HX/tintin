@@ -22,7 +22,7 @@
 
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]
+  (https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]
   <div align="center">
  
 
