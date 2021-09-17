@@ -118,10 +118,10 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919544646609@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '918075168486@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/deviljack.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Elsa','Di','Sed','Friend','Kannappi','Group','Single','Alamb','owner','Nanban','mone','Song','Pm','Bgm','Nidhin','Moodesh','Thyr','Ok bie','Enthada','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Da','Name','Shahul','bot','song','hlo','Hlo','power','Lub','message','myre','mess','power','Lub','message','myre','Alla','mess','menu','Ara','Ayin','movie','mathi','Good night','okku','Ombi','over','Phaa','Podi','setta','vazha','vedi','Vijay','Ah','ano','Arumille','Dance','dey','Etha','Good morning','good night','group','Hy','Ivan','Kando','kannappi','life','Mandan','one','vazha','vanno','Vala','thanks','Super','Song2','Song1','sheri','Reels','rasam','Psycho','Pwr','Poyi','pottan','Poli','pokko','poda','Pattumo','ara','morning','scech','Hi','I love u','gruop','Ajnas','Sad','umdi','love','sad']
+const array = ['Elsa','Di','Sed','Friend','Kannappi','Group','Single','Alamb','owner','Nanban','mone','Song','Pm','Bgm','Nidhin','Moodesh','Thyr','Ok bie','Enthada','help','Adi','Anthas','Boss','Pubg','Free Fire','Kali','Kaztro','mention','Da','Name','Shahul','bot','song','hlo','Hlo','power','Lub','message','myre','mess','power','Lub','message','myre','Alla','mess','menu','Ara','Ayin','movie','mathi','Good night','okku','Ombi','over','Phaa','Podi','setta','vazha','vedi','Vijay','Ah','ano','Arumille','Dance','dey','Etha','Good morning','good night','group','Hy','Ivan','Kando','kannappi','life','Mandan','one','vazha','vanno','Vala','thanks','Super','Song2','Song1','sheri','Reels','rasam','Psycho','Pwr','Poyi','pottan','Poli','pokko','poda','Pattumo','ara','morning','scech','Hi','I love u','gruop','Ajnas','Sad','umdi','love','sad','Shanib','sedlyfe,'lubyou','chunks','bgm','lub',Stop','Kick','Shanibser','Tintin','SHANIB','Sarasu','Romantic','Life','Thepp','Single','fans','Entha','Please',]
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
