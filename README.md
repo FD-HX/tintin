@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/tintin.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/BbjxSh2.jpeg' width="200" height="200"/>
   
   <p align="center">
     
-<a href="#"><img title="tintin"
+<a href="#"><img title="SH4NIB"
  src="https://img.shields.io/badge/-tin%20tin-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
@@ -36,7 +36,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/JULIEMWOL-QR#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shanib-ser/tintin)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SH4N1B-S3R/tintin)
      </div>
      
      
